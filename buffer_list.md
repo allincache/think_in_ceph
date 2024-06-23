@@ -1,4 +1,6 @@
-**simplified buffer::list Code**
+**simplified buffer::list code**
+
+</br>
 
 ```cpp
 // Simplified Ceph Buffer Management Code
